@@ -1,0 +1,33 @@
+body{
+    background:  #978150;
+    font-family: sans-serif;
+    text-align: center;
+    }
+    h1{
+    color: black;
+    text-shadow: 0px 13px 6px antiquewhite;
+    }
+    .ketengah{
+    margin: 10px auto;
+    width: 1150px;
+    }
+    .tulisan1{
+    text-shadow: 0px 0px 10px antiquewhite;
+    }
+    .kotak1{
+    background: rgb(159, 81, 81);
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    float: left;
+    box-shadow: 20px 20px 40px 10px antiquewhite;
+    }
+    .kotak2{
+    background: rgb(159, 81, 81);
+    width: 300px;
+    margin: 20px;
+    float: right;
+    height: 300px;
+    box-shadow: 0px 0px 10px 10px antiquewhite;
+    }
+    
